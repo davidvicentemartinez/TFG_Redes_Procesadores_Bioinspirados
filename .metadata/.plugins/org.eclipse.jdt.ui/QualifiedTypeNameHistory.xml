@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Formula.Formula"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="tools.Codificador"/>
+<fullyQualifiedTypeName name="grafo.Grafo"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="tools.LecturaEscritura"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="nodo.Nodo"/>
+<fullyQualifiedTypeName name="tools.Polarizacion"/>
+<fullyQualifiedTypeName name="formula.Formula"/>
+<fullyQualifiedTypeName name="nodo.NodoIn"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="nodo.NodoX"/>
+<fullyQualifiedTypeName name="nodo.NodoK"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.EOFException"/>
+<fullyQualifiedTypeName name="nodo.NodoA"/>
+<fullyQualifiedTypeName name="nodo.NodoOut"/>
+<fullyQualifiedTypeName name="nodo.NodoC"/>
+<fullyQualifiedTypeName name="nodo.NodoB"/>
+<fullyQualifiedTypeName name="nodo.NodoV"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="EquationSystem"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="formula.ListaFormulas"/>
+<fullyQualifiedTypeName name="nodo.NodoF"/>
+<fullyQualifiedTypeName name="nodo.NodoZ"/>
+</qualifiedTypeNameHistroy>

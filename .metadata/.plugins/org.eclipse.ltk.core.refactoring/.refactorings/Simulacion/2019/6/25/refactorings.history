@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;numClausula&apos; in &apos;nodo.Nodo&apos; to &apos;numNodo&apos;&#x0D;&#x0A;- Original project: &apos;Simulacion&apos;&#x0D;&#x0A;- Original element: &apos;nodo.Nodo.numClausula&apos;&#x0D;&#x0A;- Renamed element: &apos;nodo.Nodo.numNodo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;numClausula&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;nodo{Nodo.java[Nodo^numClausula" name="numNodo" references="true" setter="false" stamp="1561193530535" textual="false" version="1.0"/>
+</session>
